@@ -35,12 +35,12 @@ The SARC dataset is hosted at https://nlp.cs.princeton.edu/SARC/0.0/main/.
 
 We use version 0.0/main files, the balanced set for EDA and traditional ML techniques and the the unbalanced set for DL models. Files in main have been cleaned and filtered; note file sizes for raw files compared to main files in table below:
 
-Index of /SARC/0.0/main     main    raw  
+Index of /SARC/0.0/main.....main....raw  
 
-Name                        Size    Size  
-sarc.csv.bz2                11G     59G  
-stats.json                  13M     23M  
-test-balanced.csv.bz2       19M	 
-test-unbalanced.csv.bz2     2.3G  	
-train-balanced.csv.bz2      78M  
-train-unbalanced.csv..>     8.9G  	
+Name........................Size....Size  
+sarc.csv.bz2................11G.....59G  
+stats.json..................13M.....23M  
+test-balanced.csv.bz2.......19M	 
+test-unbalanced.csv.bz2.....2.3G  	
+train-balanced.csv.bz2......78M  
+train-unbalanced.csv..>.....8.9G  	
