@@ -1,5 +1,6 @@
-# data folder
+# folders to ignore
 data/*
+backup_files/*
 
 # ipynb folder
 ipynb/ETL to add.txt
