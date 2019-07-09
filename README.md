@@ -42,4 +42,4 @@ We use version 0.0/main files, the balanced set for EDA and traditional ML techn
 | test-balanced.csv.bz2    | 19M  |     |
 | test-unbalanced.csv.bz2  | 2.3G |     |
 | train-balanced.csv.bz2   | 78M  |     |
-| train-unbalanced.csv..>  | 8.9G |     |
+| train-unbalanced.csv.bz2 | 8.9G |     |
